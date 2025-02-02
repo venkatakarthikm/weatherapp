@@ -128,13 +128,15 @@ const WeatherApp = () => {
 
   return (
     <div className="weather-app">
+      
       <div className="container">
+      <h2>weather app</h2>
         <form onSubmit={handleSubmit} className="search-box">
           <input
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Enter city name or coordinates..."
+            placeholder="Enter city name or get your current location"
           />
           <button type="submit">
             <Search size={20} />

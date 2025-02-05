@@ -23,7 +23,7 @@ A React.js weather application that uses APIs to fetch real-time weather data ba
 1. Clone the repository:  
    ```bash
    git clone [https://github.com/yourusername/weatherflow.git](https://github.com/venkatakarthikm/weatherapp.git)
-   cd weatherflow
+   cd weatherapp
 
 
 # Getting Started with Create React App

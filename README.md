@@ -1,3 +1,31 @@
+# WeatherFlow 🌦️  
+
+A React.js weather application that uses APIs to fetch real-time weather data based on the user's live location.  
+
+## 🌍 Live Demo  
+🔗 **[Click here](https://weatherflow.onrender.com/)** to view the live app.  
+
+## 🚀 Features  
+- Fetches real-time weather data using APIs.  
+- Uses Geolocation API to track user's live location.  
+- Displays temperature, humidity, wind speed, and weather conditions.  
+- Responsive UI for better user experience.  
+
+## 🛠️ Technologies Used  
+- **React.js** - Frontend framework.  
+- **Weather API** - Fetches weather data.  
+- **Geolocation API** - Gets user's live location.  
+- **Axios** - Handles API requests.  
+- **CSS** - For styling the UI.  
+
+## 📦 Installation  
+
+1. Clone the repository:  
+   ```bash
+   git clone [https://github.com/yourusername/weatherflow.git](https://github.com/venkatakarthikm/weatherapp.git)
+   cd weatherflow
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

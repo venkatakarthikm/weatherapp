@@ -22,7 +22,7 @@ A React.js weather application that uses APIs to fetch real-time weather data ba
 
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/venkatakarthikm/weatherapp.git]
+   git clone https://github.com/venkatakarthikm/weatherapp.git
    cd weatherapp
 
 
